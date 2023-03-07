@@ -1,0 +1,11 @@
+# STS
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# DB config
+/src/main/webapp/WEB-INF/config/db.properties
