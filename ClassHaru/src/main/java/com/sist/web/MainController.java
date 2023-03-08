@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-package com.sist.web;
-
-public class MainController {
-
-}
-=======
 package com.sist.web;
 
 import org.springframework.stereotype.Controller;
@@ -17,4 +10,4 @@ public class MainController {
 		return "main";
 	}
 }
->>>>>>> branch 'master' of https://github.com/classHaru1/ClassHaru.git
+
