@@ -8,7 +8,7 @@
 .settings
 .springBeans
 .sts4-cache
-bin/
+
 
 # DB
 /src/main/webapp/WEB-INF/config/db.properties
